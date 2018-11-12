@@ -1,5 +1,6 @@
 certifi==2018.4.16
 cycler==0.10.0
+Cython==0.29
 decorator==4.3.0
 kiwisolver==1.0.1
 matplotlib==2.2.2
@@ -16,3 +17,6 @@ pytz==2018.5
 six==1.11.0
 sympy==1.2
 tornado==5.0.2
+scipy
+scikit-learn
+pydot
